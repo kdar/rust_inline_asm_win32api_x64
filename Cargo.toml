@@ -1,0 +1,8 @@
+[package]
+name = "rust_inline_asm_win32api_x64"
+version = "0.1.0"
+authors = ["Kevin Darlington <kevin@outroot.com>"]
+
+[dependencies]
+winapi = "0.2"
+kernel32-sys = "0.2"
